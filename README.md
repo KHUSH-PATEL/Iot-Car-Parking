@@ -11,7 +11,7 @@ Also we would require a perfect working instruments like IR sensor or servo moto
 
 
 
-The main aim of this project is reduces the risk of finding the parking slots in area. All  vehicles enter into the parking system  and waste time for searching for parking slot. If We know the available slots of parking.It eliminates the unnecessary travelling of vehicles across  the filled parking slots in a city.
+The main aim of this project is reduces the risk of finding the parking slots in area. All  vehicles enter into the parking system  and waste time for searching for parking slot. If We know the available slots of parking. It eliminates the unnecessary travelling of vehicles across  the filled parking slots in a city.
 
 
 
